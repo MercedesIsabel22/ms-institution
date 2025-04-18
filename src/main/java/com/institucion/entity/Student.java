@@ -20,6 +20,6 @@ public class Student {
     private String firstSurname;
     private String secondSurname;
     private String type_document;
-    private UserRole idUser;
+    private Long idUser;
     private Long idClassroom;
 }
