@@ -20,6 +20,6 @@ public class Teacher {
     private String secondSurname;
     private String typeDocument;
     private String documentNumber;
-    private UserRole User;
+    private Long User;
 
 }
