@@ -1,1 +1,1 @@
-Proyecto para un colegio 
+# Sistema Web de Gestión Escolar 📚 *(En proceso)*
